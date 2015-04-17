@@ -1,2 +1,2 @@
-# thesis-supplementary
-PhD thesis supplementary files
+# PhD thesis supplementary files
+
